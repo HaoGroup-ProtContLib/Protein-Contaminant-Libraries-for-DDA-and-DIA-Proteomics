@@ -5,8 +5,11 @@ Mass spectrometry-based proteomics is constantly challenged by the presence of c
 LC-MS raw data files for Contaminant-only samples can be found in ProteomeXchange Consortium with the data identifier, PXD031139 (http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD031139)
 
 
+
 About HaoGroup
+
 Our scientific mission is to develop and apply mass spectrometry (MS)-based bioanalytical technologies to advance human health.
+
 We strive to promote a collaborative, inclusive, productive, rigorous, and joyful lab culture.
 
 Research Goals:

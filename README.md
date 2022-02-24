@@ -16,7 +16,5 @@ Our scientific mission is to develop and apply mass spectrometry (MS)-based bioa
 We strive to promote a collaborative, inclusive, productive, rigorous, and joyful lab culture.
 
 Research Goals:
-
 1. We develop novel quantitative proteomic and metabolomic strategies in cells, animal tissues, and biofluid samples.
 2. We implement multidisciplinary approaches in the human induced pluripotent stem cell (iPSC), iPSC-derived neurons, mouse models, and clinical human subjects to study the lysosomal and mitochondrial dysfunctions of neurodegenerative diseases.
-#MassSpectrometry #BioanalyticalChemistry #Proteomics #Metabolomics #Lysosome #Mitochondrion #Neurodegeneration

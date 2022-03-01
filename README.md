@@ -11,10 +11,13 @@ LC-MS raw data files for Contaminant-only samples can be found in ProteomeXchang
 
 About HaoGroup:
 
-Our scientific mission is to develop and apply mass spectrometry (MS)-based bioanalytical technologies to advance human health.
 
-We strive to promote a collaborative, inclusive, productive, rigorous, and joyful lab culture.
+We are an academic research group focused on biological mass spectrometry at the Chemistry Department in George Washington University, Washington, D.C. 
 
-Research Goals:
-1. We develop novel quantitative proteomic and metabolomic strategies in cells, animal tissues, and biofluid samples.
-2. We implement multidisciplinary approaches in the human induced pluripotent stem cell (iPSC), iPSC-derived neurons, mouse models, and clinical human subjects to study the lysosomal and mitochondrial dysfunctions of neurodegenerative diseases.
+Quantitative analysis of biomolecules offers a wealth of clues to understand cell biology and disease mechanisms. Mass spectrometry (MS) has become a central technology to study biomolecules such as proteins, peptides, lipids, and small molecule metabolites. Our research focuses on developing novel and improved bioanalytical methods using LC-MS platforms and applying the combination of analytical chemistry, bioinformatics, and cell biology approaches to study human diseases, in particular, neurodegenerative diseases. 
+
+PI: Ling Hao (Ph.D.)
+
+Hao Lab website: https://blogs.gwu.edu/haolab/
+
+

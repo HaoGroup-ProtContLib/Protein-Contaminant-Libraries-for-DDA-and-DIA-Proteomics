@@ -4,6 +4,8 @@ Mass spectrometry-based proteomics is constantly challenged by the presence of c
 
 LC-MS raw data files for Contaminant-only samples can be found in ProteomeXchange Consortium with the data identifier, PXD031139 (http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD031139)
 
+Please cite our publication: Frankenfield AM, Ni J, Ahmed M, Hao L. Protein contaminants matter: building universal protein contaminant libraries for DDA and DIA proteomics. Journal of proteome research. 2022 Jul 6;21(9):2104-13. 
+https://pubs.acs.org/doi/full/10.1021/acs.jproteome.2c00145
 
 ---------------------------------------------------------------------------------------------------------------
 

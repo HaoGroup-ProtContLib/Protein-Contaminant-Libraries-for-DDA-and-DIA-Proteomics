@@ -14,7 +14,7 @@ https://pubs.acs.org/doi/full/10.1021/acs.jproteome.2c00145
 About HaoGroup:
 
 
-We are an academic research group focused on biological mass spectrometry at the Chemistry Department in George Washington University, Washington, D.C. 
+We are an academic research group focused on biological mass spectrometry at the Chemistry Department at the University of Maryland.
 
 Quantitative analysis of biomolecules offers a wealth of clues to understand cell biology and disease mechanisms. Mass spectrometry (MS) has become a central technology to study biomolecules such as proteins, peptides, lipids, and small molecule metabolites. Our research focuses on developing novel and improved bioanalytical methods using LC-MS platforms and applying the combination of analytical chemistry, bioinformatics, and cell biology approaches to study human diseases, in particular, neurodegenerative diseases. 
 
